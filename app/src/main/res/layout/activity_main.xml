@@ -57,7 +57,7 @@
             android:padding="5dp"/>
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btneducation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -73,16 +73,16 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/btnexperience"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Work"
+            android:text="Experience"
             android:layout_margin="20dp"
             android:padding="5dp"/>
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/btnachievements"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
